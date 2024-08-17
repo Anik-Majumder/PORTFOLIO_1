@@ -24,5 +24,7 @@
         <nav>@include('components.project-card')</nav>
         <nav>@include('components.services')</nav>
         <nav>@include('components.testimonials')</nav>
+        <nav>@include('components.clients')</nav>
+        <nav>@include('components.faq')</nav>
     </body>
 </html>
