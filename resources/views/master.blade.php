@@ -26,5 +26,7 @@
         <nav>@include('components.testimonials')</nav>
         <nav>@include('components.clients')</nav>
         <nav>@include('components.faq')</nav>
+        <nav>@include('components.contact')</nav>
+        <nav>@include('components.footer')</nav>
     </body>
 </html>
